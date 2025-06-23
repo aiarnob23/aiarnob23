@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Aminul Islam Arnob</h1>
 <h3 align="center">Continuous learner, coding with passion.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aiarnob23" alt="aiarnob23" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning Engineering**
 
 - 👨‍💻 Visit my portfolio [https://aminul-islam-arnob-portfolio.vercel.app/](https://aminul-islam-arnob-portfolio.vercel.app/)
