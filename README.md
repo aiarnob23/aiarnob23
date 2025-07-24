@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Aminul Islam Arnob</h1>
 <h3 align="center">Web Developer , Continuous learner, coding with passion.</h3>
 
-- 🌱 I’m currently learning **Machine Learning Engineering**
+- 🌱 I’m currently learning **Frontend Performance Optimization, Machine Learning Engineering**
 
 - 👨‍💻 Visit my [**Portfolio**](https://aminul-islam-arnob-portfolio.vercel.app/)
 
