@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Machine Learning Engineering**
 
-- 👨‍💻 Visit my portfolio [**Click**](https://aminul-islam-arnob-portfolio.vercel.app/)
+- 👨‍💻 Visit my [**Portfolio**](https://aminul-islam-arnob-portfolio.vercel.app/)
 
 - 📫 How to reach me **aiarnob23@gmail.com**
 
-- 📄 Resume [**Click**](https://drive.google.com/file/d/1YT7lY98jet05sHqNsLialTm-CrzLUUM4/view?usp=sharing)
+- 📄 [**Resume**]([https://drive.google.com/file/d/1YT7lY98jet05sHqNsLialTm-CrzLUUM4/view?usp=sharing](https://drive.google.com/file/d/17-xtZD6OnwvPLguhMZH9ur-KNckCBV3y/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
