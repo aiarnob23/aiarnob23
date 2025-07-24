@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aiarnob23@gmail.com**
 
-- 📄 Resume [**Link**]([https://drive.google.com/file/d/1YT7lY98jet05sHqNsLialTm-CrzLUUM4/view?usp=sharing](https://drive.google.com/file/d/17-xtZD6OnwvPLguhMZH9ur-KNckCBV3y/view?usp=sharing))
+- 📄  My [**Resume**]([https://aminul-islam-arnob-portfolio.vercel.app/](https://drive.google.com/file/d/17-xtZD6OnwvPLguhMZH9ur-KNckCBV3y/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
