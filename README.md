@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Frontend Performance Optimization, Machine Learning Engineering**
 
-- 👨‍💻 Visit my [**Portfolio**](https://aminul-islam-arnob-portfolio.vercel.app/)
+- 👨‍💻 Visit my [**Portfolio**](https://aminul-islam-arnob-portfolio-trp8.vercel.app/)
 
 - 📫 How to reach me **aiarnob23@gmail.com**
 
-- 📄 My [**Resume**](https://drive.google.com/file/d/1-9_6xKmWbNZjpiZeUE3xZLWt_9GIhGEW/view?usp=drive_link)
+- 📄 My [**Resume**](https://drive.google.com/file/d/1OFU4mXHQxSfqeU29ad-4SXKJ8A9zrUx_/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
