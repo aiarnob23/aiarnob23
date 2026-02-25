@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aiarnob23@gmail.com**
 
-- 📄 My [**Resume**](https://drive.google.com/file/d/1OFU4mXHQxSfqeU29ad-4SXKJ8A9zrUx_/view?usp=drive_link)
+- 📄 My [**Resume**](https://drive.google.com/file/d/1KqTc21R5SqVvOmylfGOS2JgHtePhkcMh/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
