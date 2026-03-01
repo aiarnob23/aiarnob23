@@ -5,9 +5,9 @@
 
 - 👨‍💻 Visit my [**Portfolio**](https://aminul-islam-arnob-portfolio-trp8.vercel.app/)
 
-- 📫 How to reach me **aiarnob23@gmail.com**
+- 📫 How to reach me **aminul.arnob26@gmail.com**
 
-- 📄 My [**Resume**](https://drive.google.com/file/d/1KqTc21R5SqVvOmylfGOS2JgHtePhkcMh/view?usp=sharing)
+- 📄 My [**Resume**](https://drive.google.com/file/d/1BbyfqWTQSfBsPI0w8MBZltJo4KOnWilJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
