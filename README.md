@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning **Frontend Performance Optimization, Efficient Backend**
 
 - 👨‍💻 Visit my [**Portfolio**](https://aminul-islam-arnob-portfolio-trp8.vercel.app/)
+  
+- 👨‍💻 [**Leetcode**](https://leetcode.com/u/aiArnob23/)
 
 - 📫 How to reach me **aminul.arnob26@gmail.com**
 
