@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Aminul Islam Arnob</h1>
-<h3 align="center">Web Developer , Continuous learner, coding with passion.</h3>
+<h3 align="center">Web Developer , Continuous learner, Problem solver.</h3>
 
 - 🌱 I’m currently learning **Frontend Performance Optimization, Efficient Backend**
 
